@@ -38,6 +38,7 @@
             android:layout_marginBottom="16dp"
             />
         <EditText
+            android:id="@+id/emailInput"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"/>
@@ -48,6 +49,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"/>
         <EditText
+            android:id="@+id/passwordInput"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
